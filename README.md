@@ -109,8 +109,8 @@ https://api.zhaiclub.com/source/source_list?title=电话
 
 | 参数     | 描述                                             | 必填 | 类型   |
 | -------- | ------------------------------------------------ | ---- | ------ |
-| key     | 授权码（发邮件申请）                                             | 否  | string    |
-| act     | 操作行为（默认传url）                                            | 否  | string   |
+| key     | 授权码（发邮件申请）                                             | 是  | string    |
+| act     | 操作行为（默认传url）                                            | 是  | string   |
 
 
 
@@ -120,7 +120,7 @@ https://api.zhaiclub.com/source/source_list?title=电话
 | ----------- | ------------------------ | ---- | ------------- |
 | status   | 状态码                   | 是   | String        |
 | msg | 状态消息                   | 是   | String        |
-| data | 视频真实访问地址（2小时有效）| 是   | String |
+| data | 视频真实访问地址（2小时有效）| 否   | String |
 
 ### 请求示例
 
@@ -136,7 +136,7 @@ https://down.zhaiclub.com/386809.mp4?key=XXX&act=url
 }
 ```
 
-### 服务器成本比较高,有钱捧个钱场,没钱的捧个人场
+### 服务器成本特别高,有钱捧个钱场,没钱的捧个人场
 
 ```
 BTC:1CuUZZEDhG4SzcwHu9GgaTGm1bbvX2e4cp
