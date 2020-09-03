@@ -2,7 +2,7 @@
 91porn api免费分享 纯公益和练手
 # 特别注意
 为保证服务器稳定，请求video_url的时候需要进行鉴权   
-有需要的可以发邮件fuck91master@protonmail.ch获取key,
+有需要的可以发邮件fuck91master@protonmail.ch获取key,不一定会及时回复，看心情，最近心情不好！
 如果请求频率比较高，可以把ip同时发给我，取消限制     
 如果发现key被恶意使用，将会取消授权  
 服务器太渣，请轻点虐
